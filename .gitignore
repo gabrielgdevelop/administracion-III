@@ -1,3 +1,7 @@
-# Ignorando archivos o carpetas específicas
 
-.venv
+
+# CONFIGURATION DATABASE
+.env
+
+# SYSTEM PACKAGES
+.venv/
